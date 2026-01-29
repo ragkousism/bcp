@@ -1,0 +1,9 @@
+bcp
+*.o
+*.obj
+*.exe
+
+bench/data/
+bench/logs/
+
+.DS_Store
